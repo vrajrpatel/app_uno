@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1049781357662",
+    "firebase_url": "https://flutterproject-573ff-default-rtdb.firebaseio.com",
+    "project_id": "flutterproject-573ff",
+    "storage_bucket": "flutterproject-573ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049781357662:android:6f47b953ae63bbaf8cb8cf",
+        "android_client_info": {
+          "package_name": "com.vrpatel.app_uno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049781357662-5cnm9pb2j9mh4pv72rtvs6q333jnlk46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUYPFDDD_tezRw72DYQWkiiMmHB3y6IsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049781357662-5cnm9pb2j9mh4pv72rtvs6q333jnlk46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
